@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.out
+build/
+DerivedData/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
